@@ -1,0 +1,18 @@
+/*Style for User Form*/
+.form {
+  background-color: #2adef6;
+  width: 400px;
+  height: 100px;
+  border-radius: 15px;
+  padding: 20px;
+}
+/*Style for Table column*/
+td {
+  padding-top:20px;
+  padding-bottom:20px;
+  padding-right:20px;   
+}
+
+.h1{
+	font-size: 100px
+}
